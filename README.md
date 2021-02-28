@@ -18,3 +18,4 @@ I made the tasks with Javascript. If you have a better solution or other solutio
 
 ## Lesson 5
 1. CountDiv: https://app.codility.com/demo/results/trainingQ58Q52-VCF/
+2. GenomicRangeQuery: https://app.codility.com/demo/results/trainingUTD7QM-VV3/
