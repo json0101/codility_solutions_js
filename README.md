@@ -21,3 +21,6 @@ I made the tasks with Javascript. If you have a better solution or other solutio
 2. GenomicRangeQuery: https://app.codility.com/demo/results/trainingUTD7QM-VV3/
 3. MinAvgTwoSlice: Pending
 4. PassingCars https://app.codility.com/demo/results/trainingCV3WJ2-CK7/
+
+## Lesson 6. Sorting
+1. Distinct: https://app.codility.com/demo/results/trainingSQATEN-RDZ/
