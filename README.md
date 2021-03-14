@@ -25,3 +25,4 @@ I made the tasks with Javascript. If you have a better solution or other solutio
 ## Lesson 6. Sorting
 1. Distinct: https://app.codility.com/demo/results/trainingSQATEN-RDZ/
 2. MaxProductOfThree: https://app.codility.com/demo/results/training4CBGCP-A8K/
+3. NumberOfDiscIntersections: https://app.codility.com/demo/results/training49S423-727/
