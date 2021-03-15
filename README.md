@@ -26,3 +26,4 @@ I made the tasks with Javascript. If you have a better solution or other solutio
 1. Distinct: https://app.codility.com/demo/results/trainingSQATEN-RDZ/
 2. MaxProductOfThree: https://app.codility.com/demo/results/training4CBGCP-A8K/
 3. NumberOfDiscIntersections: https://app.codility.com/demo/results/training49S423-727/
+4. Triangle: https://app.codility.com/demo/results/training9NK4VP-VZT/
